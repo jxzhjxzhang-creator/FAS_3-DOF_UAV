@@ -12,4 +12,7 @@
 
 如果无法直接运行，可以先运行quadrotor_3dof_fas1.slx再注释掉sim("quadrotor_3dof_fas1.slx")再重新运行
 ##三自由度无人机平面图
-![误差分析](assets/demo.png)
+![三自由度无人机平面图](assets/demo.png)
+
+##跟踪误差
+![跟踪误差](assets/error.png)
