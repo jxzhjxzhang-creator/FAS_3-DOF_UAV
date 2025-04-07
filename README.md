@@ -11,8 +11,17 @@
 └── README.md - 项目说明文档
 
 如果无法直接运行，可以先运行quadrotor_3dof_fas1.slx再注释掉sim("quadrotor_3dof_fas1.slx")再重新运行
-##三自由度无人机平面图
+## 三自由度无人机平面图
 ![三自由度无人机平面图](assets/demo.png)
 
-##跟踪误差
+## 跟踪误差
 ![跟踪误差](assets/error.png)
+
+## 状态图像
+![状态图像](assets/state.png)
+
+## 轨迹显示
+![轨迹显示](assets/state.png)
+
+## 输入曲线
+![输入曲线](assets/input.png)
