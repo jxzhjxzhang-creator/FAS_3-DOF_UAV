@@ -9,3 +9,5 @@
 ├── init.m - 主分析脚本（自动绘图与Lyapunov稳定性分析）
 ├── magnify.m - 局部放大工具（用于误差分析图）
 └── README.md - 项目说明文档
+
+如果无法直接运行，可以先运行quadrotor_3dof_fas1.slx再注释掉sim("quadrotor_3dof_fas1.slx")再重新运行
