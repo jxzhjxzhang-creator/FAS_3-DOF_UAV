@@ -11,4 +11,5 @@
 └── README.md - 项目说明文档
 
 如果无法直接运行，可以先运行quadrotor_3dof_fas1.slx再注释掉sim("quadrotor_3dof_fas1.slx")再重新运行
-![demo](https://github.com/user-attachments/assets/1dcd9695-143d-4738-bee5-9fd5002a5846)
+##三自由度无人机平面图
+![误差分析](assets/demo.png)
